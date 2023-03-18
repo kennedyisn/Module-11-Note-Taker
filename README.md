@@ -18,9 +18,14 @@ There are no steps needed for installation. Simply click the heroku URL link and
 
 ## Usage
 
-Click the plus sign in the top right hand corner to create a note. Type in the title for your note followed by the content in the section below labeled "note text". Clicking the save icon will save your notes and will populate in the section to the left.  
+Click the plus sign in the top right hand corner to create a note as shown in the image below. 
+![Start Screen](screenshots/starterscreen.png)
 
-The following screenshot shows the web application's appearance:
+Type in the title for your note followed by the content in the section below labeled "note text". 
+![Created Note](screenshots/creatingnote.png)
+
+Clicking the save icon will save your notes and will populate in the section to the left.  
+![Finished Note](screenshots/creatednote.png)
 
 ## Credits
 
