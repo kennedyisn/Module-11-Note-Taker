@@ -16,6 +16,8 @@ This project was created to save time and streamline note taking by using Expres
 
 There are no steps needed for installation. Simply click the heroku URL link and go to the webpage.
 
+https://kennedynotetaker.herokuapp.com/
+
 ## Usage
 
 Click the plus sign in the top right hand corner to create a note as shown in the image below. 
